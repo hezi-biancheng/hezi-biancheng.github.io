@@ -1,0 +1,27 @@
+body {
+    background-color: #FFC600;
+    text-align: center;
+    color: #FFC600;
+    border-radius: 30px;
+}
+h1 {
+    color: #E80505;
+    text-align: center;
+}
+h2 {
+    color: #DE4313;
+    text-align: center;
+}
+h3 {
+    color: #FEC163;
+    text-align: center;
+}
+p {
+   color: #FDD819;
+   text-align: center;
+}
+.blog{
+    background-color: #FA742B;
+    border-radius: 30px;
+    text-align: center;
+}
