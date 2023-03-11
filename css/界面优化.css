@@ -20,8 +20,13 @@ p {
    color: #0011c9;
    text-align: center;
 }
+button {
+    background-color:#4C83FF;
+    border-radius:3px;
+    
+}
 .blog{
-    background-color: #0095ff;
+    background-color: #F55555;
     border-radius: 30px;
     text-align: center;
 }
