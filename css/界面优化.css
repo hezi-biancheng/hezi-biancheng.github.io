@@ -1,3 +1,6 @@
+audio {
+    display:none;
+}
 body {
     background-color: #56a3f0;
     text-align: center;
@@ -26,6 +29,11 @@ button {
     
 }
 .blog{
+    background-color: #F55555;
+    border-radius: 30px;
+    text-align: center;
+}
+.about{
     background-color: #F55555;
     border-radius: 30px;
     text-align: center;
