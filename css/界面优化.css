@@ -11,12 +11,17 @@
     float:left;
     width:75px;
     text-align:center;
+    color:black;
 }
 .ul_top{
     list-style: none;
     position: absolute;
     top: 0px;
     left: 250px;
+    position: fixed;
+animation: toShow 1.5s 0.5s;
+animation-fill-mode: both !important;
+-webkit-animation-fill-mode: both !important;
 }
 .nav a{
     display:block;
@@ -24,6 +29,10 @@
     text-decoration: none;
     width: 80px;
     line-height: 30px;
+}
+.wellcome audio {
+    top: 0px;
+    right: 0px;
 }
 .nav a:hover{
     color:white;
@@ -37,4 +46,13 @@
 .news {
     background-color: #edf2f2;
     border-radius: 30px;
+}
+.text{
+    margin-top:140px;
+}
+.toShow {
+position: fixed;
+animation: toShow 1.5s 0.5s;
+animation-fill-mode: both !important;
+-webkit-animation-fill-mode: both !important;
 }
